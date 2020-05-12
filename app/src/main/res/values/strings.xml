@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChuckNorrisJokes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chuck_norris_jokes">Chuck Norris Jokes</string>
+    <string name="category">category</string>
+</resources>
